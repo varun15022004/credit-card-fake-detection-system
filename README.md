@@ -1,6 +1,4 @@
-Sure! Here's a **professional and beautifully formatted `README.md`** for your **Credit Card Fraud Detection System** using Markdown, ideal for GitHub or LinkedIn:
 
----
 
 # 💳 Credit Card Fraud Detection System
 
